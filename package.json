@@ -8,9 +8,7 @@
   "module": "dist/string-calc.esm.js",
   "browser": "dist/string-calc.umd.js",
   "unpkg": "dist/string-calc.umd.js",
-  "dependencies": {
-    "date-fns": "^1.29.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "rollup": "^0.63.4",
     "rollup-plugin-commonjs": "^9.1.0",
