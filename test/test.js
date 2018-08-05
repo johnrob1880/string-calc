@@ -17,3 +17,9 @@ test('1+1+1', 3);
 test('(2-1)/1', 1);
 
 test('1.0+2.1', 3.1);
+
+// Add days to a date
+test('20180101d+20', 20180121);
+
+// Subtract days from a date
+test('20180131d-30', 20180101);
