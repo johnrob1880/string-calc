@@ -2,7 +2,7 @@ let isNum = /^-?\d*\.?\d*$/
 let isAddDays = /^'[\d-]*'d\+\d*$/
 let isSubtractDays = /^'[\d-]*'d-\d*$/
 
-import { addDays } from 'date-fns';
+import addDays from './dates';
 
 export default function (fn, onError) {
   if (isAddDays.test(fn)) {

@@ -1,6 +1,6 @@
 {
-  "name": "string-calc",
-  "version": "1.0.0",
+  "name": "@johnrob1880/string-calc",
+  "version": "1.0.1",
   "description": "",
   "author": "John Robinson <johnrob1880@gmail.com>",
   "repository": "https://github.com/johnrob1880/string-calc",
